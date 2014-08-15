@@ -1,0 +1,20 @@
+{
+  "name": "plurasight-rotate",
+  "version": "0.0.1",
+  "authors": [
+    "yapiyapo"
+  ],
+  "description": "a single element rotate library",
+  "main": "rotate-js",
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
